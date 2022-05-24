@@ -29,14 +29,14 @@ const Home = () => {
 
             <section id={"resume"} className="cyan lighten-3">
                 <div className="container content">
-                    <h3><i className="material-icons">insert_drive_file</i>It Me Job Info</h3>
+                    <h3><i className="material-icons">insert_drive_file</i>Resume</h3>
                 </div>
             </section>
 
             <section id={"projects"} className="green lighten-1">
                 <div className='container content valign-wrapper'>
                     <div className="container content col s6">
-                        <h3><i className="material-icons">code</i>It Me Projects</h3>
+                        <h3><i className="material-icons">code</i>Past Projects</h3>
                         <p>Here are some cool projects that I have been working on over the past few years!</p>
                     </div>
                     <div className="container content col s6">
@@ -47,7 +47,7 @@ const Home = () => {
 
             <footer className="page-footer grey darken-3">
                 <div className="footer-copyright">
-                    Tyler Leung
+                    ©Tyler Leung
                 </div>
             </footer>
         </div>
