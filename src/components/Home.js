@@ -30,6 +30,7 @@ const Home = () => {
             <section id={"resume"} className="cyan lighten-3">
                 <div className="container content">
                     <h3><i className="material-icons">insert_drive_file</i>Resume</h3>
+                    <p>To Be Inserted</p>
                 </div>
             </section>
 
@@ -47,7 +48,7 @@ const Home = () => {
 
             <footer className="page-footer grey darken-3">
                 <div className="footer-copyright">
-                    ©Tyler Leung
+                    © Tyler Leung
                 </div>
             </footer>
         </div>
