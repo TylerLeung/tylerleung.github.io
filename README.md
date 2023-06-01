@@ -1,3 +1,6 @@
+## Notice
+This website has been taken down as it will be undergoing changes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
