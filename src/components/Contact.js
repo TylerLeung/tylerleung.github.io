@@ -1,4 +1,5 @@
 import { Container } from "react-bootstrap";
+import Button from "react-bootstrap/Button";
 
 export default function Contact() {
   return (
@@ -7,10 +8,11 @@ export default function Contact() {
         You can contact me here</p>
         
         <p>
-        <a href="mailto:leung.tyler008@gmail.com">Email </a>
-        <a href="https://github.com/TylerLeung">GitHub </a>
-        <a href=""> Resume </a>
-        <a href="https://www.linkedin.com/in/tyler-leung-2376ba1a0/">LinkedIn</a>
+
+        <Button variant="primary" href="mailto:leung.tyler008@gmail.com">Email </Button>
+        <Button variant="primary" href="https://github.com/TylerLeung">GitHub </Button>
+        <Button variant="primary" href=""> Resume </Button>
+        <Button variant="primary" href="https://www.linkedin.com/in/tyler-leung-2376ba1a0/">LinkedIn</Button>
       </p>
         
     </Container>
